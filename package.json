@@ -19,7 +19,8 @@
   "homepage": "https://github.com/addod19/coin-smartcontract#readme",
   "dependencies": {
     "@openzeppelin/contracts": "^4.6.0",
-    "dotenv": "^16.0.1"
+    "dotenv": "^16.0.1",
+    "glob": "^7.2.0"
   },
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.6",
